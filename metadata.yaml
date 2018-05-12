@@ -19,6 +19,8 @@ creator:
     gutenberg_agent_id: '31982'
     url: http://www.gutenberg.org/2009/agents/31982
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/34177#The-Idyl-of-Twin-Fires
 gutenberg_issued: '2010-10-31'
 gutenberg_type: Text
 identifiers:
