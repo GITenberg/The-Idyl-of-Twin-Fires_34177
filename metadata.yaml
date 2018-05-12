@@ -1,0 +1,36 @@
+_repo: The-Idyl-of-Twin-Fires_34177
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Fogarty, Thomas
+    alias: Fogarty, Thomas J.
+    birthdate: 1873
+    deathdate: 1938
+    gutenberg_agent_id: '33090'
+    url: http://www.gutenberg.org/2009/agents/33090
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Eaton, Walter Prichard
+    birthdate: 1878
+    deathdate: 1957
+    gutenberg_agent_id: '31982'
+    url: http://www.gutenberg.org/2009/agents/31982
+description: ''
+gutenberg_issued: '2010-10-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34177'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Farm life -- Fiction'
+- !lcsh 'New England -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Love stories'
+title: The Idyl of Twin Fires
+url: http://www.gutenberg.org/ebooks/34177
